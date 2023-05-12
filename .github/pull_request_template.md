@@ -4,9 +4,9 @@
 
 Mark the following as confirmation that the files in this repository are complete.
 
-- [ ] JavaScript Coding Challenges
-- [ ] Ruby Coding Challenges
-- [ ] Interview Questions
+- [✅] JavaScript Coding Challenges
+- [✅] Ruby Coding Challenges
+- [✅] Interview Questions
 
 ### 📝 Feedback
 
